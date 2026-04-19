@@ -1,4 +1,5 @@
 # guess-the-number
+![screenshot](guess_number_preview.png)
 
 a classic guess the number game made in python. 
 
